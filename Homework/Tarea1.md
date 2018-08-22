@@ -4,7 +4,8 @@
 ## 21/agosto/2018
 ## López Puertos Ariana Naomi
 
-###Cómputo Móvil
+### 
+***Cómputo Móvil***
 
 *¿Qué es el cómputo móvil?*
 
