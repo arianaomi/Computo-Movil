@@ -7,9 +7,17 @@
 ### 
 ***Cómputo Móvil***
 
+**Conceptos**
+
 *¿Qué es el cómputo móvil?*
 
 https://scielo.conicyt.cl/pdf/ingeniare/v20n3/art01.pdf
+
+*Conceptos*
+
+http://www.redalyc.org/html/772/77225004001/
+
+####
 
 *Cómputo móvil a través de los años*
 
