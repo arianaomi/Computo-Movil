@@ -15,6 +15,9 @@ https://scielo.conicyt.cl/pdf/ingeniare/v20n3/art01.pdf
 
 *Conceptos*
 
+  1.Software
+  2.Hardware
+  3.Comunicación
 http://www.redalyc.org/html/772/77225004001/
 
 ####
@@ -52,7 +55,7 @@ https://scielo.conicyt.cl/pdf/ingeniare/v20n3/art01.pdf
   2. Realidad aumentada y virtual.
   3. Infraestructura de redes y telecomunicaciones
   
-
+http://www.redalyc.org/html/772/77225004001/
 http://www.redalyc.org/html/772/77225004001/
 
 *Retos del cómputo móvil*
