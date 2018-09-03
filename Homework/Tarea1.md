@@ -25,6 +25,10 @@ https://sites.google.com/site/fsisorg/computacion-movil/1-3-la-computacion-movil
 
 *Partes básicas que permiten el funcionamiento del dispositivo móvil*
 
+  1.Elementos y Funcionamientos:
+    1.1 Sensores
+    1.2 Pilas 
+    
 https://aprendiendotecnologiaadmonb.wordpress.com/dispositivos-moviles-y-sus-sistemas-operativos/
 
 *Ventajas y desventajas:*
@@ -37,9 +41,17 @@ https://aprendiendotecnologiaadmonb.wordpress.com/dispositivos-moviles-y-sus-sis
 
 *Cómputo móvil en la vida real.*
 
+  1. Internet en las cosas.
+
 https://scielo.conicyt.cl/pdf/ingeniare/v20n3/art01.pdf
+  
 
 *Futuro del cómputo móvil.*
+
+  1. Inteligencia Artificial
+  2. Realidad aumentada y virtual.
+  3. Infraestructura de redes y telecomunicaciones
+  
 
 http://www.redalyc.org/html/772/77225004001/
 
