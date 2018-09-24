@@ -9,6 +9,7 @@ Es una disciplina emergente en la computación. Conjunto de artefactos y equipos
   
   Caracteristicas:
     1. Movilidad: Portabilidad basada en el hechode que los usuarios llevan un dispositivo movil a todas partes.
+    
     2. Amplio alcance: Accesibilidade de las personas.
     
 Cómputo móvil a través de los años
@@ -83,7 +84,22 @@ https://aprendiendotecnologiaadmonb.wordpress.com/dispositivos-moviles-y-sus-sis
 
 *Cómputo móvil en la vida real y su futuro *
 
-  1. Inteligencia Artificial
+  1. Inteligencia Artificial:
+La inteligencia artificial ahora es una caracteristica que más destacan las compañias. Se  refiere a los procesadores    con redes de procesamiento natural. Por ejemplo, el reconocimiento de fotos y su agruoacion de manera automatica, agentes inteligentes, reconocimiento de patrones.
+  
+  ¿Como impacta la inteligencia artificial en los celulares? 
+  a.Personalización: mejora el procesamiento de acuerdo al perfil de cada persona.
+  b.Eficiencia: permite mejor funcionamiento del equipo haciendo usi más eficiente de la energía.
+  c. Rendimiento y velocidad: El rendimiento mejora un 40% y un 70%, porque el procesador reconoce cuáles son las funciones más utilizadas en el móvil y optimiza la velocidad de procesamiento. 
+  d. Seguridad.
+  e. Reconocimiento de voz: Logra entender lo que dice el usuario y también comprende la forma en como se expresa.
+  f.Cámara de fotos: identifica las condiciones de luz.
+  g.Identificaciión de imágenes: Permite reconocer las imágenes, ofreceer etiquetas y formas deagruparlas en álbumes.
+  h. Reconocimiento facial: Los núcleos dedicados al machine learning otorga más recision y sofisticación a las herramientas de reconocimiento facial y las aplicaciones realidad aumentada.
+  
+  https://www.infobae.com/america/tecno/2018/02/25/como-funcionan-los-celulares-con-inteligencia-artificial/
+  
+  
   2. Realidad aumentada y virtual.
   3. Infraestructura de redes y telecomunicaciones
   4. Internet en las cosas.
