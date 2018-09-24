@@ -1,24 +1,21 @@
-## Cómputo móvil
-## Marduk Pérez de Lara Dominguez
-## Tarea 01
-## 21/agosto/2018
-## López Puertos Ariana Naomi
+## Cómputo móvil | Marduk Pérez de Lara Dominguez
+## Tarea 01. |21/agosto/2018 |López Puertos Ariana Naomi
 
 ### 
 ***Cómputo Móvil***
-
-**Conceptos**
-
 *¿Qué es el cómputo móvil?*
-
+Es una disciplina emergente en la computación. 
 https://scielo.conicyt.cl/pdf/ingeniare/v20n3/art01.pdf
 
-*Conceptos*
 
-  1.Software
-  2.Hardware
-  3.Comunicación
-http://www.redalyc.org/html/772/77225004001/
+
+  1.Software: Programa para realizar tareas especificas. http://www.redalyc.org/html/772/77225004001/
+  2.Hardware : Componente fisico tecnológico, que trabaja o intecttua de algun modo con la computadora. http://www.redalyc.org/html/772/77225004001/
+  3.Comunicación: http://www.redalyc.org/html/772/77225004001/
+  4.IoT: es una red de objetos físicos (vehículos, máquinas, electrodomésticos y más) que utiliza sensores y API para  conectarse e intercambiar datos por internet. https://www.sap.com/latinamerica/trends/internet-of-things.html
+
+
+
 
 ####
 
@@ -54,6 +51,7 @@ https://scielo.conicyt.cl/pdf/ingeniare/v20n3/art01.pdf
   1. Inteligencia Artificial
   2. Realidad aumentada y virtual.
   3. Infraestructura de redes y telecomunicaciones
+ 
   
 http://www.redalyc.org/html/772/77225004001/
 http://www.redalyc.org/html/772/77225004001/
